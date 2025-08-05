@@ -147,7 +147,7 @@ body{
     margin-bottom: 20px;
 }
 .pro-image{
-    width: 250px;
+    width: 100%;
     align-self: self-start;
 }
 .pro-name{
@@ -205,4 +205,5 @@ body{
     flex-direction: row;
     justify-self: right;
     gap: 8px;
+
 }
